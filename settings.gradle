@@ -1,1 +1,2 @@
 include ':app'
+include ':tian_android_task'
