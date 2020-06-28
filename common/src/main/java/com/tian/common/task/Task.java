@@ -1,4 +1,4 @@
-package com.tian.task;
+package com.tian.common.task;
 
 /**
  * @author tiansongtao, Email:769001510@qq.com

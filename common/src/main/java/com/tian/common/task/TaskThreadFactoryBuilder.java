@@ -1,4 +1,4 @@
-package com.tian.task;
+package com.tian.common.task;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadFactory;
